@@ -67,7 +67,7 @@ pyinstaller --onefile --noconsole --name volumeboost main.py
 
 ## 📜 **License**
 📝 **This project is licensed under the MIT License** - You are free to use and modify it!  
-👤 **Developer:** [Ayad Seghairi](https://github.com/ayadseghairi)
+👤 **Developer:** [Ayad Seghiri](https://github.com/ayadseghairi)
 
 ---
 
