@@ -20,7 +20,8 @@ yay -S volumeboost
 ```
 
 ### 🖥️ **2. Run the Application**
-After installation, launch the app using:
+1️⃣ **From the application menu** (Look for "Volume Boost")  
+2️⃣ **Using the terminal**:  
 ```bash
 volumeboost
 ```
